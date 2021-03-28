@@ -1,4 +1,7 @@
 ### Hi there 👋
+Working as a SDET in [ThinkPalm](https://thinkpalm.com/). Graduated from [GECBH](http://www.gecbh.ac.in/). Born and brought up in Kerala (India).
+
+Currently engaged as a SDET for a [Cohesity product](https://www.cohesity.com/resource-assets/datasheets/Cohesity-Imanis-Datasheet.pdf)
 
 <!--
 **Felix-Raj/Felix-Raj** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
